@@ -1,0 +1,39 @@
+body {
+  font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#container {
+  min-height: 100vh;
+}
+
+.inner-quote-box {
+  width: clamp(18.75rem, 7.7206rem + 58.8235vw, 31.25rem);
+}
+
+#quote-text {
+  color: #111827;
+}
+#quote-text p::before,
+#quote-text p::after {
+  content: "“";
+}
+
+#new-quote {
+  background: #4f46e5;
+  border: none;
+}
+#new-quote:hover {
+  background: #6366f1;
+}
+
+#tweet-quote {
+  width: 2.5rem;
+  height: 2.5rem;
+  color: #1a202c;
+  box-shadow: inset 0 0 0 calc(1px + 0px) #d1d5db;
+}
+#tweet-quote:hover {
+  background: #f9fafb;
+}
