@@ -4,15 +4,15 @@ I'm very happy to have completed all the certified Front End Development Librari
 
 ## Projects in this Repository
 
-1. **Quote Machine**: A random quote generator that fetches a new quote and author each time the user clicks a button. It also includes a feature to share quotes on Twitter.
+1. **Quote Machine**: A random quote generator that fetches a new quote and author each time the user clicks a button. It also includes a feature to share quotes on Twitter. [demo](https://codepen.io/ryzmdn/pen/gbYrvxx)
 
-2. **Markdown Previewer**: A markdown editor and previewer that updates the rendered output in real time as the user types. It supports GitHub-flavored Markdown syntax.
+2. **Markdown Previewer**: A markdown editor and previewer that updates the rendered output in real time as the user types. It supports GitHub-flavored Markdown syntax. [demo](https://codepen.io/ryzmdn/pen/raBLNYL)
 
-3. **Drum Machine**: A virtual drum pad interface where users can click buttons or use keyboard shortcuts to play sounds. The displayed text updates dynamically based on the sound played.
+3. **Drum Machine**: A virtual drum pad interface where users can click buttons or use keyboard shortcuts to play sounds. The displayed text updates dynamically based on the sound played. [demo](https://codepen.io/ryzmdn/pen/KwPgvBN)
 
-4. **JavaScript Calculator**: A fully functional calculator that supports basic operations like addition, subtraction, multiplication, and division. It also handles operator precedence and edge cases.
+4. **JavaScript Calculator**: A fully functional calculator that supports basic operations like addition, subtraction, multiplication, and division. It also handles operator precedence and edge cases. [demo](https://codepen.io/ryzmdn/pen/zxOKQeb)
 
-5. **25 + 5 Clock**: A Pomodoro-style timer where users can set a 25-minute work session and a 5-minute break. It features a countdown timer, audio notification, and customizable session/break durations.
+5. **25 + 5 Clock**: A Pomodoro-style timer where users can set a 25-minute work session and a 5-minute break. It features a countdown timer, audio notification, and customizable session/break durations. [demo](https://codepen.io/ryzmdn/pen/XJrNamK)
 
 ## Features
 
